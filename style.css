@@ -39,7 +39,7 @@ a:link {
 a:visited {
 	font-weight: bold;
 	text-decoration: none;
-	color: #D4CDDC;
+	color: blue;
 	}
 a:hover, a:focus, a:active {
 	text-decoration: underline;
